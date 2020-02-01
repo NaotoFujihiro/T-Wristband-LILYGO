@@ -4,3 +4,6 @@
 [submodule "sketches/LilyGO-T-Wristband"]
 	path = sketches/LilyGO-T-Wristband
 	url = git@github.com:Xinyuan-LilyGO/LilyGO-T-Wristband.git
+[submodule "libraries/TFT_eSPI"]
+	path = libraries/TFT_eSPI
+	url = git@github.com:Bodmer/TFT_eSPI.git
