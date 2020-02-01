@@ -1,3 +1,6 @@
 [submodule "hardware/mira/esp32"]
 	path = hardware/mira/esp32
 	url = git@github.com:espressif/arduino-esp32.git
+[submodule "sketches/LilyGO-T-Wristband"]
+	path = sketches/LilyGO-T-Wristband
+	url = git@github.com:Xinyuan-LilyGO/LilyGO-T-Wristband.git
