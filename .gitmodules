@@ -1,0 +1,3 @@
+[submodule "hardware/mira/esp32"]
+	path = hardware/mira/esp32
+	url = git@github.com:espressif/arduino-esp32.git
