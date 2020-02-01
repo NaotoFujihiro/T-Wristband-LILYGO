@@ -10,6 +10,3 @@
 [submodule "libraries/PCF8563_Library"]
 	path = libraries/PCF8563_Library
 	url = git@github.com:lewisxhe/PCF8563_Library.git
-[submodule "libraries/WIFIMANAGER-ESP32"]
-	path = libraries/WIFIMANAGER-ESP32
-	url = git@github.com:zhouhan0126/WIFIMANAGER-ESP32.git
