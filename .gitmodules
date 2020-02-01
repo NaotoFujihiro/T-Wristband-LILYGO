@@ -10,3 +10,6 @@
 [submodule "libraries/PCF8563_Library"]
 	path = libraries/PCF8563_Library
 	url = git@github.com:lewisxhe/PCF8563_Library.git
+[submodule "libraries/WiFiManager"]
+	path = libraries/WiFiManager
+	url = git@github.com:tzapu/WiFiManager.git
