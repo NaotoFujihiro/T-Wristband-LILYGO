@@ -1,15 +1,15 @@
-[submodule "hardware/mira/esp32"]
-	path = hardware/mira/esp32
-	url = git@github.com:espressif/arduino-esp32.git
 [submodule "sketches/LilyGO-T-Wristband"]
 	path = sketches/LilyGO-T-Wristband
-	url = git@github.com:Xinyuan-LilyGO/LilyGO-T-Wristband.git
+	url = git@github.com:NaotoFujihiro/LilyGO-T-Wristband.git
+[submodule "hardware/mira/esp32"]
+	path = hardware/mira/esp32
+	url = git@github.com:NaotoFujihiro/arduino-esp32.git
 [submodule "libraries/TFT_eSPI"]
 	path = libraries/TFT_eSPI
-	url = git@github.com:Bodmer/TFT_eSPI.git
+	url = git@github.com:NaotoFujihiro/TFT_eSPI.git
 [submodule "libraries/PCF8563_Library"]
 	path = libraries/PCF8563_Library
-	url = git@github.com:lewisxhe/PCF8563_Library.git
+	url = git@github.com:NaotoFujihiro/PCF8563_Library.git
 [submodule "libraries/WiFiManager"]
 	path = libraries/WiFiManager
-	url = git@github.com:tzapu/WiFiManager.git
+	url = git@github.com:NaotoFujihiro/WiFiManager.git
