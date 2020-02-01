@@ -7,3 +7,6 @@
 [submodule "libraries/TFT_eSPI"]
 	path = libraries/TFT_eSPI
 	url = git@github.com:Bodmer/TFT_eSPI.git
+[submodule "libraries/PCF8563_Library"]
+	path = libraries/PCF8563_Library
+	url = git@github.com:lewisxhe/PCF8563_Library.git
